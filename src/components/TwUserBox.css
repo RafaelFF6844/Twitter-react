@@ -1,0 +1,26 @@
+.Card-TwUser{
+    width: 60%;
+    display: flex;
+    align-items: center;
+}
+
+.Card-TwUser img{
+    width: 64px;
+    border-radius: 60%;
+}
+
+.Card-TwUser-info{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Card-TwUser-info b{
+    
+}
+
+.Card-TwUser-info p{
+    margin: 2px;
+}
+
