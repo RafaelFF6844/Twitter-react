@@ -1,0 +1,14 @@
+.Box-TwMenuItems{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.Box-TwMenuItems img{
+    width: 30px;
+    height: 30px;
+}
+
+.Box-TwMenuItems p{
+    
+}
